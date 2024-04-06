@@ -1,5 +1,6 @@
 package class1;
 
+// 너무 반복이 많음...
 public class ClassStart1 {
 
     public static void main(String[] args) {

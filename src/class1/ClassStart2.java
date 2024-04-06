@@ -1,5 +1,7 @@
 package class1;
 
+// 제거할 때 인덱스에 맞게 삭제해줘야함 (안전성이 떨어짐)
+
 public class ClassStart2 {
 
     public static void main(String[] args) {
